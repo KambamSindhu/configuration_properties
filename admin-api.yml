@@ -22,4 +22,4 @@ management:
 
 app:
   images:
-     upload-dir: E:\classes\product-images\
+     upload-dir: D:\Adv java Spring boot\Images
